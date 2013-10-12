@@ -13,4 +13,6 @@ return array(
     '!welcome'      => "Hello, I'm Rommie, the Laravel IRC Bot!  Welcome to Laravel :).  If you have any questions, type !help to see how to best ask for assistance.  If you need to paste code, check !paste for more info.  Thanks!",
     '!docscontrib'  => "Want to contribute to the documentation? Awesome! Fork and submit a pull request at http://github.com/laravel/docs",
     '!wheresrommie' => "Hello :) Phill Sparks created me to help you! I can be found at https://github.com/sparksp/laravel-ircbot/tree/develop",
+    '!no'           => "NOOOOOOOOO! http://www.youtube.com/watch?v=umDr0mPuyQc",
+    '!pastebin'     => "Please avoid using pastebin.com as it is slow and forces others to look at ads.  Please use http://paste.laravel.com or http://gist.github.com.  Thanks!",
 );
